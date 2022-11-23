@@ -5,7 +5,7 @@
   ## Table of Contents
   1. [Description](#description)
   2. [Usage](#usage)
-  3.[Contributing](#contributing)
+  3. [Contributing](#contributing)
   4. [Testing](#testing)
   5. [License](#license)
   6. [Questions](#questions)
