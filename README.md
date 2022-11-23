@@ -3,7 +3,7 @@
   # Regex tutorial for [a-z0-9_-]
 
   ## Table of Contents
-  1. [Description](#description
+  1. [Description](#description)
   2. [Usage](#usage)
   3.[Contributing](#contributing)
   4. [Testing](#testing)
