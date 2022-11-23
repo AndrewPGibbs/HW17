@@ -10,7 +10,7 @@
   2. Usage
   3.Contributing 
   4. Testing
-  5. License (#license)
+  5. [License](#license)
   6. Questions 
 
   ## Installation
